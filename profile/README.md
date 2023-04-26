@@ -2,4 +2,4 @@
 
 ## Hi there 👋
 
-Minecraft server: mc.sunext.net // Vietnamese server.
+Minecraft server: play.sunext.net // Vietnamese server.
